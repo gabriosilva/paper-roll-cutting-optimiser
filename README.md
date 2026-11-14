@@ -1,3 +1,7 @@
+> **English summary.** An optimiser built for Klabin that plans how to cut large paper rolls into the widths customers ordered while keeping leftover paper to a minimum (a cutting-stock problem). It is written in Java. The data in this repository is fictional.
+>
+> Team project from my Computer Science degree at Inteli (2023). This is a fork of the original repository; the documentation below is in Portuguese.
+
 ![](./img/inteli-logo.png) 
 
 # Introdução
